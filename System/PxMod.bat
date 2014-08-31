@@ -1,0 +1,1 @@
+DeusEx.exe -windowed -log=PxMod.log -newwindow -ini=PxMod.ini -userini=PxModUser.ini
